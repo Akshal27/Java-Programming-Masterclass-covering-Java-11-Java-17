@@ -6,7 +6,7 @@ public class Hello {
 		//prints hello, Akshal!
 		System.out.println("Hello, Akshal !");
 		
-		//defining int variables and operation preference
+		//defining int variables and operation precedence
 		
 		int myFirstNumber = (5 + 7)+(2*10);
 		
